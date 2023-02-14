@@ -12,6 +12,8 @@ public class TocarInstrumento {
 		InstrumentoPercusion instrumentopercusion = new InstrumentoPercusion("Timbales",110);
 		instrumentopercusion.tocar();	
 		
+		
+		
 	}
 
 }
